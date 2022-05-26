@@ -1,4 +1,4 @@
-# grumphp-magento2
+# grumphp-magento
 
 [![Latest Stable Version](https://poser.pugx.org/roma-glushko/grumphp-magento2/v/stable)](https://packagist.org/packages/roma-glushko/grumphp-magento2) [![License](https://poser.pugx.org/roma-glushko/grumphp-magento2/license)](https://packagist.org/packages/roma-glushko/grumphp-magento2)
 
